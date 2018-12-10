@@ -1,6 +1,9 @@
-# Advent Of Code 2018
+# Advent Of Code 2018 🎄🎅
 
 ## Usage
 ```
-./run.sh [1 | 2]
+./run.sh day [part]
 ```
+
+### day in range(1, 26)
+### part in [1 2]
